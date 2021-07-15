@@ -72,6 +72,8 @@ textarea{
 
 .time {
   border-left: none !important;
+  text-align: right;
+  padding-top:30px;
 }
 
 .icon {
