@@ -18,3 +18,5 @@ THEN the saved events persist
 
 Site deployed at https://absius.github.io/super-disco/
 Code Repository https://github.com/absius/super-disco
+
+![screencapture-file-C-Users-patab-vandy-sandbox-projects-super-disco-index-html-2021-07-17-11_07_53](https://user-images.githubusercontent.com/50057893/126043061-b2c7a50e-fdc0-4e3e-997e-5360e7bcb5bc.png)
