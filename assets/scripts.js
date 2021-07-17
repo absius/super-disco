@@ -93,4 +93,4 @@ function setCalendar(){
 }
 
 setCalendar();
-setInterval(function(){checkTimes()}, 60000);
+checkTimes();
