@@ -33,14 +33,13 @@ for(var i = index-1; i >= 0 ; i--){
 };
 
 document.addEventListener('click',function(e){
-    console.log(e);
-    console.log(e.target.id);
+   
     if (e.target.id.substring(2,7) === 'block'){
         var divID = document.getElementById(e.target.id);
         var input = document.createElement("input");
         input.id = "input" + e.target.id.substring(0,2);
         input.className = "form-control";
-        var text = document.createTextNode('Test');
+
         divID.innerHTML='';
         divID.appendChild(input);
     }
